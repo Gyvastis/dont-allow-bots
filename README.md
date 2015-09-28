@@ -1,7 +1,7 @@
 Don't Allow Bots
 =============
 
-A fork of [Don't Log Bots](https://github.com/YOURLS/dont-log-bots)
+A fork of [Don't Log Bots](https://github.com/YOURLS/dont-log-bots).
 
 Plugin for [YOURLS](http://yourls.org) `1.6+`. 
 
@@ -18,7 +18,7 @@ Installation
 
 License
 -------
-YOURLS' license, aka *"Do whatever the hell you want with it"*. 
+'YOURLS' license, aka *"Do whatever the hell you want with it"*.
 _YOURLS - MIT License_
 
 More
