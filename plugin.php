@@ -1,11 +1,11 @@
 <?php
 /**
-Plugin Name: Don't Log Bots
-Plugin URI: https://github.com/YOURLS/dont-log-bots
-Description: Do not log some bots in stats
-Version: 1.3
-Author: Ozh, Leo Colomb, Suguru Hirahara
-Author URI: http://yourls.org
+Plugin Name: Don't Allow Bots
+Plugin URI: https://github.com/Gyvastis/dont-allow-bots
+Description: Block bots from following a redirect through your shortened link.
+Version: 1.0
+Author: Vaidas
+Author URI: http://vaidasbagdonas.lt
 */
 
 // No direct call
